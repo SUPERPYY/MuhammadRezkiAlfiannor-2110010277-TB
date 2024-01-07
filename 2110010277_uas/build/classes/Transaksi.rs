@@ -1,0 +1,16 @@
+com.mycompany._uas.Transaksi
+com.mycompany._uas.Transaksi$8
+com.mycompany._uas.Transaksi$9
+com.mycompany._uas.Transaksi$15
+com.mycompany._uas.Transaksi$11
+com.mycompany._uas.Transaksi$12
+com.mycompany._uas.Transaksi$13
+com.mycompany._uas.Transaksi$14
+com.mycompany._uas.Transaksi$6
+com.mycompany._uas.Transaksi$7
+com.mycompany._uas.Transaksi$4
+com.mycompany._uas.Transaksi$5
+com.mycompany._uas.Transaksi$10
+com.mycompany._uas.Transaksi$2
+com.mycompany._uas.Transaksi$3
+com.mycompany._uas.Transaksi$1

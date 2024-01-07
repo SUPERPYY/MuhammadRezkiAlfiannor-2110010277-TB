@@ -1,0 +1,11 @@
+com.mycompany._uas.Mobil$4
+com.mycompany._uas.Mobil$3
+com.mycompany._uas.Mobil$2
+com.mycompany._uas.Mobil$1
+com.mycompany._uas.Mobil$10
+com.mycompany._uas.Mobil
+com.mycompany._uas.Mobil$9
+com.mycompany._uas.Mobil$8
+com.mycompany._uas.Mobil$7
+com.mycompany._uas.Mobil$6
+com.mycompany._uas.Mobil$5
